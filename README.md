@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm K. Veerendra Kalyan Babu</h1>
-<h3 align="center">A passionate Game Developer from India</h3>
+<h3 align="center">A passionate Game Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veerendra64&label=Profile%20views&color=0e75b6&style=flat" alt="veerendra64" /> </p>
 
