@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm K. Veerendra Kalyan Babu</h1>
 <h3 align="center">A passionate Game Developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=veerendra64&label=Profile%20views&color=0e75b6&style=flat" alt="veerendra64" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veerendra64" alt="veerendra64" /></a> </p>
 
